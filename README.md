@@ -1,2 +1,2 @@
 # bikcraft-web
-Site criado beseado no curso da Origmid.
+Site criado baseado nas aulas do curso Origamid.
